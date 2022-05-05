@@ -1,1 +1,1 @@
-# tic-tac-toe-application
+# rock-paper-scissors-application
